@@ -1,4 +1,6 @@
 // C++ program for insertion sort
+//Time Complexity --> O(N^2)
+
 
 #include <bits/stdc++.h>
 using namespace std;
